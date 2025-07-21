@@ -1,1 +1,2 @@
 hi this is my sample project on git understanding.
+Mades changes on second line in the file .
