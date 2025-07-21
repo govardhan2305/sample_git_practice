@@ -1,1 +1,1 @@
-ECHO is on.
+hi this is my sample project on git understanding.
